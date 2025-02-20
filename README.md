@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">Hi, I'm Jose Torre<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif", I'm Jose Torre<img  width="60px"/></h1>
 
 
 <p align="center">
