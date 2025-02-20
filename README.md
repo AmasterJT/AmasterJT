@@ -7,3 +7,7 @@
 </div>
 
 <img src="./banner.png"/>
+
+<div align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AmasterJT&theme=dark&show_icons=true&count_private=true" />
+</div>
