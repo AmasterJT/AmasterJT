@@ -10,8 +10,6 @@
 
 
 
-
-
 <div>
 <samp>
 <h2 align="center"> Github stats </h2>
@@ -21,7 +19,8 @@
 </div>
 
 <br/>
-<h3>Languages</h3>
+
+## 📚​ Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmasterJT&langs_count=6&theme=vision-friendly-dark&layout=compact&hide_border=true"
