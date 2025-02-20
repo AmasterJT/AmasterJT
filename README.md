@@ -8,6 +8,30 @@
 
 <img src="./banner.png"/>
 
+
+
+
+
+<div>
+<samp>
+<h2 align="center"> Github stats </h2>
+    
 <div align="center">
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AmasterJT&theme=dark&show_icons=true&count_private=true" />
 </div>
+
+<br/>
+<h3>Languages</h3>
+        <p align="center">
+    <a href="https://github.com/1999AZZAR/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmasterJT&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+      alt="1999AZZAR :: overall Top Langs " /></a>
+  </p>
+    <p align="center">
+      <a href="https://github.com/1999AZZAR/">
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmasterJT&theme=gruvbox&layout=compact&hide_border=true"
+      alt="1999AZZAR :: Top Langs by repo" />
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmasterJT&theme=gruvbox&layout=compact&hide_border=true"
+      alt="1999AZZAR :: Top Langs by commit" />
+      </a>
+    </p>
