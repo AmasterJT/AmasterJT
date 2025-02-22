@@ -20,12 +20,12 @@
 
 <br/>
 
-## 📚​ Languages
+## 📚​ Programing Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmasterJT&langs_count=6&theme=vision-friendly-dark&layout=compact&hide_border=true"
   alt="1999AZZAR :: overall Top Langs " /></a>
-  </p>
+</p>
 <p align="center">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmasterJT&theme=dark&layout=compact&hide_border=true"
   alt="1999AZZAR :: Top Langs by repo" />
