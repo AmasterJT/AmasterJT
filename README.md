@@ -12,13 +12,6 @@
 
 <div>
 <samp>
-<h2 align="center"> Github stats </h2>
-    
-<div align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AmasterJT&theme=vision-friendly-dark&show_icons=true&count_private=true" />
-</div>
-
-<br/>
 
 ## 📚​ Programing Languages
 
